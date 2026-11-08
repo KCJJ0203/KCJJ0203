@@ -2,6 +2,8 @@
 
 Year 2 Diploma in IT student at Ngee Ann Polytechnic. I build small tools that solve problems I actually have, and I'm working my way deeper into security.
 
+Portfolio: [kcjj0203.github.io](https://kcjj0203.github.io)
+
 ### Security
 
 Champion, Polytechnic/ITE category, The Sentinel Challenge 2026 (DSTA BrainHack).
